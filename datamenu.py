@@ -66,7 +66,7 @@ def aplikasi_kasir():
     data = read_json_file()
     if data is None:
         print("Program berhenti karena tidak bisa membaca data.")
-        return None
+        return
     
     total = 0
 
