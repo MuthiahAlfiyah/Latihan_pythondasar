@@ -1,0 +1,19 @@
+{
+  "makanan": {
+    "1": {
+      "nama": "Ayam",
+      "Harga per kg": 50000,
+      "Stok": 100
+    },
+    "2": {
+      "nama": "Sapi",
+      "Harga per kg": 12000,
+      "Stok": 80
+    },
+    "3": {
+      "nama": "Babi",
+      "Harga per kg": 10000,
+      "Stok": 50
+    }
+  }
+}
